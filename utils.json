@@ -1,0 +1,12 @@
+{
+    "name": "rest-jwt",
+    "deps": {
+
+    },
+    "private": false,
+    "public_repo": false,
+    "hash": "3gzn53NXuka_Je6cx3fvHtWoUn0GRsdtHUtwW-GhsTs",
+    "version": "0.2.1",
+    "owner": "aramtech",
+    "description": ""
+}
